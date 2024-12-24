@@ -10,7 +10,7 @@ function Home() {
   return (
     <div className="relative min-h-screen text-charcoal overflow-hidden" ref={refto_overview}>
       <video className="top-0 left-0 w-full h-full object-cover blur-sm scale-105 fixed" loop autoPlay muted>
-        <source src="bg.mp4" type="video/mp4" />
+        <source src="../../bg.mp4" type="video/mp4" />
       </video>
 
       <div className="relative min-h-screen bg-ivory text-charcoal z-10" >
