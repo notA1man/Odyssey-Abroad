@@ -10,7 +10,7 @@ import Athens from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/componen
 import Form from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Form';
 import Sydney from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Sydney';
 import { useRef } from 'react';
-import MyContext from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Mycontext';
+import MyContext from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/MyContext';
 
 
 function App() {
