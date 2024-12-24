@@ -1,7 +1,7 @@
 import { useNavigate } from 'react-router-dom';
 import Navbar from './Navbar';
 import Footer from './Footer';
-import MyContext from './Mycontext';
+import MyContext from './MyContext';
 import { useContext } from 'react';
 
 function Home() {
