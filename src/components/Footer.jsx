@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
-import MyContext from './Mycontext';
+import MyContext from './MyContext';
 
 function Footer() {
   const navigate = useNavigate();
