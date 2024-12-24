@@ -1,16 +1,16 @@
 // App.jsx
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Home';
-import Kyoto from './components/Kyoto';
-import Bali from './components/Bali';
-import Paris from './components/Paris';
-import Faq from './components/Faq';
-import Toronto from './components/Toronto';
-import Athens from './components/Athens';
-import Form from './components/Form';
-import Sydney from './components/Sydney';
+import Kyoto from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Kyoto';
+import Bali from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Bali';
+import Paris from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Paris';
+import Faq from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Faq';
+import Toronto from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Toronto';
+import Athens from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Athens';
+import Form from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Form';
+import Sydney from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Sydney';
 import { useRef } from 'react';
-import MyContext from './components/Mycontext';
+import MyContext from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Mycontext';
 
 
 function App() {
