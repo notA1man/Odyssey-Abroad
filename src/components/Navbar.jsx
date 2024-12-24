@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import MyContext from './Mycontext';
+import MyContext from './MyContext';
 import { useContext, useState } from 'react';
 
 function Navbar() {
