@@ -1,6 +1,6 @@
 // App.jsx
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Home from './components/Home';
+import Home from '/home/runner/work/Odyssey-Abroad/Odyssey-Abroad/src/components/Home';
 import Kyoto from './components/Kyoto';
 import Bali from './components/Bali';
 import Paris from './components/Paris';
