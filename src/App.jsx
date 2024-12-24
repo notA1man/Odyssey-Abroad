@@ -26,7 +26,7 @@ function App() {
     <MyContext.Provider value={{scrollto_overview,scrollto_about,refto_about,refto_overview}}>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/Odyssey-Abroad" element={<Home />} />
         <Route path="/destinations/bali" element={<Bali />} />
         <Route path="/destinations/kyoto" element={<Kyoto />} />
         <Route path="/destinations/paris" element={<Paris />} />
